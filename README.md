@@ -1,4 +1,3 @@
-# E-Commerce-Django-React
 # E-Commerce Store
 
 A full-stack e-commerce application built with a React frontend and a Django REST API backend.
